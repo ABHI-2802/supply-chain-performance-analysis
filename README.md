@@ -6,7 +6,7 @@ An end-to-end supply chain analytics project analysing 100 products across 5 sup
 
 **Dataset:** [Supply Chain Analysis — Kaggle]([https://www.kaggle.com/datasets/amitanshu/supply-chain-analysis-dataset)]
 **Tools:** Microsoft Excel | Power BI Desktop
-**Author:** Jagajeeth Sumathi Mohan Kumar
+**Author:** Abhishek Biradar
 
 ---
 
@@ -22,8 +22,7 @@ An end-to-end supply chain analytics project analysing 100 products across 5 sup
 
 ## Project Structure
 | File | Description |
-| Supply_Chain_Analysis_Jagajeeth.xlsx | Excel workbook with 6 sheets |
-| Supply_Chain_Report_Jagajeeth.docx | Full written analysis report |
+| Supply_Chain_Analysis.xlsx | Excel workbook with 6 sheets |
 | dashboard_screenshot.png | Power BI dashboard screenshot |
 
 ---
