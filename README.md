@@ -22,12 +22,12 @@ An end-to-end supply chain analytics project analysing 100 products across 5 sup
 
 ## Project Structure
 | File | Description |
-| Supply_Chain_Analysis.xlsx | Excel workbook with 6 sheets |
+| Supply_Chain_Analysis.xlsx | Excel workbook with 5 sheets |
 | dashboard_screenshot.png | Power BI dashboard screenshot |
 
 ---
 
-## Excel Workbook Structure (6 Sheets)
+## Excel Workbook Structure (5 Sheets)
 1. **Raw_Data** — Original unmodified dataset
 2. **Clean_Data** — Cleaned data with validation and formatting
 3. **Lookup_Tables** — Supplier master table for VLOOKUP/XLOOKUP
